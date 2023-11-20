@@ -1,4 +1,4 @@
-# guitarFxClassifier
+# Guitar Fx Classifier
 
 Applicazione Android in grado di classificare diversi effetti per chitarra, tramite l’utilizzo del microfono di uno smartphone e di un modello classificatore (CNN) appositamente addestrato.
 
